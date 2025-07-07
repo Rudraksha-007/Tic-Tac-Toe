@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-Enjoy playing and feel free to
+Enjoy playing and feel free to contribute! ⭐

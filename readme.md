@@ -72,17 +72,4 @@ Welcome to **Tic-Tac-Toe AI**! This project is a classic Tic-Tac-Toe game implem
 
 ---
 
-## 👨‍💻 Author
-
-- **Your Name**  
-  [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 Enjoy playing and feel free to contribute! ⭐
